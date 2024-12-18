@@ -1,1 +1,1 @@
-correlation_plot is a chart that represents something that is not a perfectly linear, but we can clearly see that its an approximate linear relationship or a linear correlation.
+correlation_plot is a chart that represents something that is not a perfectly linear, but we can clearly see that its an approximate linear relationship or a linear correlation. i believe we can convincingly say that when skin_data rises, mass_data also rises.
